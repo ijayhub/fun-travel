@@ -29,7 +29,7 @@ Repo_name:
 
 project_title: Tour Web App
 
-project_description: This is an app that displays places you can visit for relaxation.
+project_description: This website has a landing page and allows you to navigate to a section that shows places to visit for relaxation.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
