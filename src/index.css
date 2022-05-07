@@ -135,8 +135,14 @@ background-color: #fff;
 }
 @media only screen and (max-width: 600px){
   .hero-btn{
-    width:100%;
+    width:70%;
+  
   }
+  .hero-text{
+  font-size:50px;
+
+}
+
   
 }
 .section-container{
