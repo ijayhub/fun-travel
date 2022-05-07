@@ -13,7 +13,7 @@ const Footer = () => {
     const portfolio = 'https://portfolio-ijay.netlify.app/';
     const linkedIn = 'https://www.linkedin.com/in/ijeoma-igboagu/';
     const blogLink = 'https://ijaycent.hashnode.dev/';
-    const ijayGit = 'https://github.com/ijayhub';
+    const ijayGit = 'https://github.com/ijayhub/fun-travel';
 
     
 
@@ -29,12 +29,12 @@ const Footer = () => {
 					</div>
 					<div className='col-md-12 d-flex justify-content-center mx-3 '>
 						<div className='mx-3'>
-							<a href={linkedIn} target='_blank' rel='noreferrer'>
+							<a href={linkedIn} target='_blank' rel='noopener noreferrer'>
 								<img src={linked} alt={linked} />
 							</a>
 						</div>
 						<div className='mx-3'>
-							<a href={ig} target='_blank' rel='noreferrer'>
+							<a href={ig} target='_blank' rel='noopener noreferrer'>
 								<img
 									src={gram}
 									alt={gram}
@@ -48,17 +48,17 @@ const Footer = () => {
 						</div>
 
 						<div className='mx-3'>
-							<a href={tweet} target='_blank' rel='noreferrer'>
+							<a href={tweet} target='_blank' rel='noopener noreferrer'>
 								<img src={twitter} alt={twitter} />
 							</a>
 						</div>
 						<div className='mx-3'>
-							<a href={portfolio} target='_blank' rel='noreferrer'>
+							<a href={portfolio} target='_blank' rel='noopener noreferrer'>
 								<img src={website} alt={website} />
 							</a>
 						</div>
 						<div className='mx-3'>
-							<a href={blogLink} target='_blank' rel='noreferrer'>
+							<a href={blogLink} target='_blank' rel='noopener noreferrer'>
 								<img src={hash} alt={hash} />
 							</a>
 						</div>
@@ -87,7 +87,7 @@ const Footer = () => {
 							<a
 								href={ijayGit}
 								target='_blank'
-								rel='noreferrer'
+								rel='noopener noreferrer'
 								className='text-black'>
 								Ijay&copy;2022
 							</a>
