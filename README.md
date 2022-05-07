@@ -3,7 +3,7 @@
   <a href="">
     <img src='./src/img/travel-tour.png' alt="travel-tour web app">
   </a>
-  <h1>Tour Web App</h1>
+  <h1>Tour/ Travel Webesite App</h1>
 </div>
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -24,12 +24,13 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Repo_name: 
+Repo_name: https://github.com/ijayhub/fun-travel
 
+Hosted link: fun-travel.vercel.app
 
-project_title: Tour Web App
+project_title: Tour/Travel Web App
 
-project_description: This is an app that displays places you can visit for relaxation.
+project_description: This website has a landing page and allows you to navigate to a section that shows places to visit for relaxation.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
