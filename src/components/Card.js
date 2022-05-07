@@ -7,8 +7,8 @@ import Navigation from './Navigation';
 
 const CardContent = ({title, places, handleTour}) => {
     return (
-		<>
-			<Navigation/>
+			<>
+				<Navigation />
 				<div>
 					<h1 className='header m-5 '>{title}</h1>
 					<div className='underline underline1 '></div>
@@ -40,17 +40,19 @@ const CardContent = ({title, places, handleTour}) => {
 									</button>
 								</div>
 								<div className='d-flex justify-content-between p-1'>
-									<a href={place.link} target='_blank' rel='noreferrer'>
+									<a
+										href={place.link}
+										target='_blank'
+										rel='noopener noreferrer'>
 										read more
 									</a>
-									<a href ='PlaceDetails'>
+									<a href='PlaceDetails'>
 										<img src={icon} alt={icon} />
 									</a>
 								</div>
 							</Card>
 						</div>
 					))}
-					
 				</div>
 			</>
 		);
