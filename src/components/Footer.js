@@ -20,12 +20,8 @@ const Footer = () => {
     return (
 			<div>
 				<footer className='p-5 footer-home'>
-					<div>
-						<img
-							src={tour}
-							alt={tour}
-							style={{ width: '100px', height: '100px', borderRadius: '50%' }}
-						/>
+					<div className='d-flex justify-content-center'>
+						<img src={tour} alt={tour} className='hero-icon2' />
 					</div>
 					<div className='col-md-12 d-flex justify-content-center mx-3 '>
 						<div className='mx-3'>
@@ -81,7 +77,7 @@ const Footer = () => {
 					</div>
 					<hr />
 
-					<div>
+					<div className='d-flex justify-content-center'>
 						<p className='text-white footer-code float-end'>
 							Designed and code by
 							<a

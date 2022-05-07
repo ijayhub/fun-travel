@@ -133,19 +133,37 @@ background-color: #fff;
 .hero-btn{
   width:10%;
 }
+.hero-icon{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+.hero-icon2{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%; 
+  margin-bottom: 10px;
+}
+
+
 @media only screen and (max-width: 600px){
   .hero-btn{
-    width:70%;
-  
+    width:90%;
   }
   .hero-text{
   font-size:50px;
-
-}
-
+  }
+.hero-icon{
+  width: 50px;
+  height: 50px;
   
+  } 
+.hero-icon2{
+  width: 50px;
+  height: 50px; 
+  }
 }
-.section-container{
+section-container{
   line-height:2;
   letter-spacing:1;
   text-align: justify;
@@ -160,11 +178,10 @@ background-color: #fff;
 @media only screen and (max-width:600px) {
 .footer-resize{
   font-size:14px; 
-}
+  }
 .footer-code{
   font-size: 12px;
-}
-
+  }
 }
 /* animation for hero */
 .bg-pan-tl {

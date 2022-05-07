@@ -12,8 +12,7 @@ const Navigation = () => {
 						<img
 							src={tour}
 							alt={tour}
-						  style={{ width: '100px', height: '100px', borderRadius: '50%' }}
-						  className="hero-icon"
+							className="hero-icon"
                         
 						/>
 					</Navbar.Brand>
