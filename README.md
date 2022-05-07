@@ -26,6 +26,7 @@
 
 Repo_name: https://github.com/ijayhub/fun-travel
 
+Hosted link: fun-travel.vercel.app
 
 project_title: Tour/Travel Web App
 
