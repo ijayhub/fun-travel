@@ -24,10 +24,10 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Repo_name: 
+Repo_name: https://github.com/ijayhub/fun-travel
 
 
-project_title: Tour Web App
+project_title: Tour/Travel Web App
 
 project_description: This website has a landing page and allows you to navigate to a section that shows places to visit for relaxation.
 
