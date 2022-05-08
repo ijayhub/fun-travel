@@ -3,7 +3,7 @@
   <a href="">
     <img src='./src/img/travel-tour.png' alt="travel-tour web app">
   </a>
-  <h1>Tour/ Travel Webesite App</h1>
+  <h1>Tour/ Travel Website App</h1>
 </div>
 <!-- TABLE OF CONTENTS -->
 <details>
